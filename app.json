@@ -1,7 +1,7 @@
 {
-    "name": "🌹⃝𖣔𝐕𝐈𝐏 𝐌𝐔𝐒𝐈𝐂🥀⛦⃕‌🇮🇳",
+    "name": "🌹⃝𖣔𝐋𝐔𝐂𝐊𝐘 𝐌𝐔𝐒𝐈𝐂🥀⛦⃕‌🇮🇳",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/3a131483d8a27dbf41b3a.jpg",
+    "logo": "https://te.legra.ph/file/026165eb18871a4d15ea7.png",
     "keywords": [
     "python3",
     "telegram",
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐏𝐘𝐑𝐎𝐆𝐑𝐀𝐌 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍, 𝐈𝐅 𝐄𝐑𝐑𝐎𝐑 𝐓𝐇𝐄𝐍 𝐒𝐄𝐍𝐃 𝐄𝐑𝐑𝐎𝐑 𝐒𝐒 𝐓𝐎 𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑.( 𝐆𝐄𝐓 𝐅𝐑𝐎𝐌 = t.me/VIP_STRING_ROBOT ) . ",
+        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐏𝐘𝐑𝐎𝐆𝐑𝐀𝐌 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍, 𝐈𝐅 𝐄𝐑𝐑𝐎𝐑 𝐓𝐇𝐄𝐍 𝐒𝐄𝐍𝐃 𝐄𝐑𝐑𝐎𝐑 𝐒𝐒 𝐓𝐎 𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑.( 𝐆𝐄𝐓 𝐅𝐑𝐎𝐌 = t.me/SED_BOY_STARING_BOT ) . ",
         "value": "",
         "required": true
       },
@@ -56,7 +56,7 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ) , {𝐈𝐅 𝐆𝐑𝐎𝐔𝐏 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐓𝐇𝐄𝐍 𝐅𝐈𝐋𝐋 𝐀𝐅𝐓𝐄𝐑 (https://t.me/) 𝐏𝐚𝐫𝐭𝐬, 𝐋𝐢𝐤𝐞+85vaorE-w8VkYTBl) ",
 
-       "value": "TG_FRIENDSS",
+       "value": "DXINFO143",
 
        "required": false
 
@@ -65,14 +65,14 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ), { 𝐈𝐅 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐓𝐇𝐄𝐍 𝐅𝐈𝐋𝐋 𝐀𝐅𝐓𝐄𝐑 (https://t.me/) 𝐏𝐚𝐫𝐭𝐬, 𝐋𝐢𝐤𝐞:- (+85vaorE-w8VkYTBl). ",
 
-       "value": "VIP_CREATORS",
+       "value": "DX_INFO",
 
        "required": false
 
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+        "value": "https://te.legra.ph/file/026165eb18871a4d15ea7.png",
         "required": false
       },
       "LOG_GROUP_ID": {
