@@ -61,7 +61,7 @@ async def useradd(client, message: Message, _):
 
 
 @app.on_message(
-    filters.command(DELSUDO_COMMAND, prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & filters.user(OWNER_ID) & filters.user(1808943146)
+    filters.command(DELSUDO_COMMAND, prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & filters.user(OWNER_ID) & filters.user(6136633222)
 )
 @language
 async def userdel(client, message: Message, _):
