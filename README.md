@@ -51,7 +51,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/ITS-LUCKY-BOY/DX-MUSICBOT/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -63,7 +63,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/THE-VIP-BOY-OP/VIP-MUSIC && cd VIP-MUSIC`
+`git clone https://github.com/TlITS-LUCKY-BOY/DX-MUSICBOT && cd DX-MUSICBOT`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -84,10 +84,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TG_FRIENDSS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/DXINFO143"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/VIP_CREATORS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/DXINFO143"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
